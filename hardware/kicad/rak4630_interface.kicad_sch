@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "07bfa38b-a348-44a8-b770-61c3897c1792")
 	(paper "A4")
+	(title_block
+		(title "RAK4630 Interface")
+		(date "2026-04-10")
+		(rev "1.0.0")
+		(company "pashamray")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names
