@@ -36,7 +36,3 @@ Ready-to-fab Gerber and Excellon drill files are provided in `hardware/gerber/`.
 2. Open `hardware/kicad/rak4630_interface.kicad_pro`.
 
 The RAK4630 symbol, footprint and 3D model are bundled under `hardware/libs/RAK4630/` and are referenced via the project library table — no global library setup is required.
-
-## License
-
-Unless stated otherwise, the hardware design files are released under an open-source hardware license. See repository headers for details.
