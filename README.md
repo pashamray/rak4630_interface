@@ -20,7 +20,7 @@ This board provides a minimal interface around the RAK4630 module, exposing its 
 - **TLV62569DBV** step-down DC/DC converter for the 3.3 V rail
 - **Reset push button**
 - **Solder jumper** for power-rail / option configuration
-- **8-pin breakout header** for GPIO / SWD / UART access
+- **8-pin breakout header** for GPIO / UART access
 - **Test points** for key signals
 
 ## Repository layout
