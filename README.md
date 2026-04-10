@@ -2,6 +2,12 @@
 
 An open-source hardware breakout / interface board for the **RAK4630** LoRa module (Nordic nRF52840 + Semtech SX1262), designed in KiCad 9.
 
+## Gallery
+
+![3D render](hardware/docs/render_3d.png)
+
+![PCB layout](hardware/docs/pcb.png)
+
 ## Overview
 
 This board provides a minimal interface around the RAK4630 module, exposing its programming and I/O lines on a header and powering it from a USB-C port. It is intended as a development and flashing carrier for the RAK4630.
