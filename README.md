@@ -4,9 +4,15 @@ An open-source hardware breakout / interface board for the **RAK4630** LoRa modu
 
 ## Gallery
 
-![3D render](hardware/docs/render_3d.png)
+![3D render top](hardware/docs/pcb_render_top.png)
 
-![PCB layout](hardware/docs/pcb.png)
+![3D render bottom](hardware/docs/pcb_render_bottom.png)
+
+![PCB top](hardware/docs/pcb_top.png)
+
+![PCB bottom](hardware/docs/pcb_bottom.png)
+
+![PCB dimensions](hardware/docs/pcb_dimensions.png)
 
 ## Overview
 
