@@ -6439,7 +6439,7 @@
 	)
 	(gr_text "GND"
 		(locked yes)
-		(at 165.755 92.83 270)
+		(at 165.7042 92.7538 90)
 		(layer "B.SilkS" knockout)
 		(uuid "1b9374f2-75a4-43a6-b267-e16010866d7d")
 		(effects
@@ -6447,14 +6447,27 @@
 				(size 0.7 0.7)
 				(thickness 0.1)
 			)
-			(justify left mirror)
+			(justify left)
 		)
 	)
 	(gr_text "UART2 TX"
 		(locked yes)
-		(at 158.135 92.83 270)
+		(at 158.135 92.703 90)
 		(layer "B.SilkS" knockout)
 		(uuid "1e908a16-2b02-498c-9bc3-e7f08b5b72f5")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify right mirror)
+		)
+	)
+	(gr_text "GND"
+		(locked yes)
+		(at 165.755 71.24 90)
+		(layer "B.SilkS" knockout)
+		(uuid "335c912a-2940-4ab2-886c-b2128c7c5234")
 		(effects
 			(font
 				(size 0.7 0.7)
@@ -6463,11 +6476,11 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "GND"
+	(gr_text "VDD"
 		(locked yes)
-		(at 165.755 71.24 90)
+		(at 147.975 90.671 90)
 		(layer "B.SilkS" knockout)
-		(uuid "335c912a-2940-4ab2-886c-b2128c7c5234")
+		(uuid "3c74985e-4610-4496-98fc-926f39d15b4a")
 		(effects
 			(font
 				(size 0.7 0.7)
@@ -6503,7 +6516,7 @@
 	)
 	(gr_text "I2C SCL"
 		(locked yes)
-		(at 153.055 92.83 270)
+		(at 153.055 88.385 90)
 		(layer "B.SilkS" knockout)
 		(uuid "56b96126-1766-47be-a792-74995b5f38d5")
 		(effects
@@ -6516,7 +6529,7 @@
 	)
 	(gr_text "UART1 RX"
 		(locked yes)
-		(at 160.675 92.83 270)
+		(at 160.7258 87.4706 90)
 		(layer "B.SilkS" knockout)
 		(uuid "6fb3a12d-68ed-49af-8963-4b2520cb5f48")
 		(effects
@@ -6607,7 +6620,7 @@
 	)
 	(gr_text "I2C SDA"
 		(locked yes)
-		(at 150.515 92.83 270)
+		(at 150.515 88.385 90)
 		(layer "B.SilkS" knockout)
 		(uuid "a12003e3-27bc-4a03-9ce2-7565cdac019e")
 		(effects
@@ -6618,22 +6631,9 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "VDD"
-		(locked yes)
-		(at 147.975 92.83 270)
-		(layer "B.SilkS" knockout)
-		(uuid "a1a8adbf-cc18-4402-b445-8526cbd49393")
-		(effects
-			(font
-				(size 0.7 0.7)
-				(thickness 0.1)
-			)
-			(justify left mirror)
-		)
-	)
 	(gr_text "UART1 TX"
 		(locked yes)
-		(at 163.215 92.83 270)
+		(at 163.215 87.623 90)
 		(layer "B.SilkS" knockout)
 		(uuid "b3f0596a-6439-4975-9318-6a74585fe0c0")
 		(effects
@@ -6646,7 +6646,7 @@
 	)
 	(gr_text "UART2 RX"
 		(locked yes)
-		(at 155.595 92.83 270)
+		(at 155.5442 92.703 90)
 		(layer "B.SilkS" knockout)
 		(uuid "bccc64c4-202d-4aeb-9bd3-4fb88e3e5370")
 		(effects
@@ -6654,7 +6654,7 @@
 				(size 0.7 0.7)
 				(thickness 0.1)
 			)
-			(justify left mirror)
+			(justify right mirror)
 		)
 	)
 	(gr_text "I2C SCL"
