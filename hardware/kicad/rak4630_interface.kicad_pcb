@@ -6502,8 +6502,8 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "Rev.: 1.0.0"
-		(at 134.005 94.1 0)
+	(gr_text "RAK4630 Interface\nRev.: 1.0.0"
+		(at 138.069 69.843 0)
 		(layer "B.SilkS" knockout)
 		(uuid "446f5778-a7b2-4983-9b41-4f41f437465b")
 		(effects
